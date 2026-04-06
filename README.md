@@ -1,4 +1,4 @@
-# 📦 Análise Exploratória de Dados — E-Commerce Olist
+# Análise Exploratória de Dados — E-Commerce Olist
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.2-150458?style=flat&logo=pandas&logoColor=white)
@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
 Análise exploratória completa do dataset público da **Olist**, maior plataforma
 de e-commerce do Brasil, contendo mais de **100 mil pedidos reais** realizados
@@ -25,15 +25,15 @@ do trabalho com dados:
 
 ---
 
-## 🔍 Principais insights
+## Principais insights
 
-- 📈 Crescimento de **+300%** no volume de pedidos ao longo de 2017
-- 📉 Atraso na entrega reduz a nota média em **1,4 pontos** (de 4,2 para 2,8 estrelas)
-- 📍 O estado de **SP concentra 42% da receita total**, com ticket médio 18% menor que o RJ
-- 💳 **73% dos pagamentos** são feitos via cartão de crédito, predominantemente parcelado
+- Crescimento de **+300%** no volume de pedidos ao longo de 2017
+- Atraso na entrega reduz a nota média em **1,4 pontos** (de 4,2 para 2,8 estrelas)
+-  O estado de **SP concentra 42% da receita total**, com ticket médio 18% menor que o RJ
+-  **73% dos pagamentos** são feitos via cartão de crédito, predominantemente parcelado
 
 
-## 🚀 Como executar
+## Como executar
 
 ### 1. Clone o repositório
 ```bash
@@ -63,7 +63,7 @@ Abra os notebooks no VS Code e execute cada um clicando em **Run All**:
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 | Biblioteca | Uso no projeto |
 |---|---|
