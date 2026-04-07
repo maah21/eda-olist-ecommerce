@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados brutos (muito pesados para o GitHub)
+data/raw/
+data/processed/
+
+# Mac
+.DS_Store
+
+# VS Code
+.vscode/
